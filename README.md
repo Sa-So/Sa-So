@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 👀 I’m interested in AI, Robotics, Automation 
 - 🌱 I’m currently learning Web Development using React
 - 💞 I’m looking to collaborate on Automation projects based on Python/Javascript/Java/C++
-- 📫 Reach me out on : why you want to reach me ?
-- Thinking if you should follow or not ?
-- I think you should not...
+<!-- - 📫 Reach me out on : why you want to reach me ? -->
+<!-- - Thinking if you should follow or not ?
+- I think you should not... -->
 - ![HelloGIF](https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif)
 
 <!--
