@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m @sa-so
 - 👀 I’m interested in AI, Robotics, Automation 
 - 🌱 I’m currently learning Web Development using React
-- 💞 I’m looking to collaborate on Automation projects based on Python/Javascript/Java/C++
+- 💞 I’m looking to collaborate on projects based on Python/Javascript/Java/C++
 <!-- - 📫 Reach me out on : why you want to reach me ? -->
 <!-- - Thinking if you should follow or not ?
 - I think you should not... -->
