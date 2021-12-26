@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- - 📫 Reach me out on : why you want to reach me ? -->
 <!-- - Thinking if you should follow or not ?
 - I think you should not... -->
-- ![HelloGIF](https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif)
+ ![HelloGIF](https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif)
 
 <!--
 - 👋 Hi, I’m @sa-so
