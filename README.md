@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 <!-- - Thinking if you should follow or not ?
 - I think you should not... -->
  ![HelloGIF](https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif)
+ <div>
+  <img src="https://komarev.com/ghpvc/?username=sa-so&abbreviated=true">
+ </div>
 
 <!--
 - 👋 Hi, I’m @sa-so
